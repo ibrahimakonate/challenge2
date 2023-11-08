@@ -1,0 +1,36 @@
+body{
+    background: rgb(140, 11, 145);
+    margin: 0;
+    width: 100%;
+}
+.container{
+    background: rgb(140, 11, 145);
+    display: flex;
+    position: relative;
+    top: 10px;
+
+}
+.vie{
+    background-color: white;
+    width:200px;
+    height: 200px;
+    margin: 15px;
+}
+.vit{
+    background-color: white;
+    width:200px;
+    height: 200px;
+    margin: 15px;
+}
+.vue{
+    background-color: white;
+    width:200px;
+    height: 200px;
+    margin: 15px;
+}
+.vu{
+    background-color: white;
+    width:200px;
+    height: 200px;
+    margin: 15px;
+}
